@@ -57,8 +57,8 @@ public class Picture
         moon = new Circle();
         moon.makeVisible();
         moon.changeColor("magenta");
-        moon.changeSize(30);
-        moon.moveHorizontal (-100);
+        moon.changeSize(35);
+        moon.moveHorizontal (-110);
         
     }
 
